@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "player": "Hai Hoang",
+        "round": {
+            "roundId": 1,
+            "score": 1
+        }
+    },
+    {
+        "id": 2,
+        "player": "Hai Hoang",
+        "round": {
+            "roundId": 1,
+            "score": 1
+        }
+    },
+    {
+        "id": 4,
+        "player": "Hai Banh",
+        "round": {
+            "roundId": 1,
+            "score": 1
+        }
+    }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "hn_-js230213_ad_nguyenvanhoanghai_bainangcao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
